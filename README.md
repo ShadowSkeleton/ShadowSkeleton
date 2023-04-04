@@ -1,4 +1,17 @@
 ### Hello World !
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["React", "Python", "C++", "C","JavaScript", "HTML", "CSS", "PHP"],
+    askMeAbout: ["WEB", "TECH", "SDE", "PHOTOGRAPH", "DIRECTOR"],
+    technologies: {
+        Backend: {
+            js: ["Node", "PHP", "Express"],
+        },
+        databases: ["mongo", "MySql", "sqlite"]
+    }
+};
+```
 <!--START_SECTION:waka-->
 
 ```text
