@@ -1,8 +1,8 @@
 ### Hello World !
 ```javascript
-const anmol = {
+const Jackson Feng = {
     pronouns: "He" | "Him",
-    code: ["React", "Python", "C++", "C","JavaScript", "HTML", "CSS", "PHP"],
+    code: ["Python", "C++", "C","JavaScript", "HTML", "CSS", "PHP", "MySQL"],
     askMeAbout: ["WEB", "TECH", "SDE", "PHOTOGRAPH", "DIRECTOR"],
     technologies: {
         Backend: {
