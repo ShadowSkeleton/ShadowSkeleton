@@ -27,20 +27,20 @@ const Jackson Feng = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 20 January 2024
+From: 21 November 2022 - To: 21 January 2024
 
-Total Time: 224 hrs 42 mins
+Total Time: 228 hrs
 
-JavaScript       47 hrs 40 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-TeX              37 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Java             26 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Python           26 hrs 34 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-C                24 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-TypeScript       16 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-HTML             11 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-PHP              9 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-ObjectiveC       7 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown         4 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript       47 hrs 40 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+TeX              37 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Python           29 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Java             26 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+C                24 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+TypeScript       16 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+HTML             11 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+PHP              9 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+ObjectiveC       7 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Markdown         4 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
