@@ -27,7 +27,7 @@ const Jackson Feng = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 08 July 2024
+From: 21 November 2022 - To: 09 July 2024
 
 Total Time: 267 hrs 14 mins
 
