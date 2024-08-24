@@ -9,22 +9,22 @@ I'm a passionate developer with a strong foundation in both frontend and backend
 - **Familiar:** TypeScript, Java
 
 ### Frontend
-- **Frameworks & Libraries:** React, Bootstrap, SASS
+- **Frameworks & Libraries:** React, Bootstrap
 - **Tools:** Figma, Adobe XD, Chrome DevTools
 
 ### Backend
 - **Frameworks & Libraries:** Node.js, Express, PHP
-- **APIs & Protocols:** REST, GraphQL, JSON
-- **DevOps & Cloud:** Microsoft Azure, Docker
+- **APIs & Protocols:** REST, JSON
+- **DevOps & Cloud:** Microsoft Azure
 
 ### Databases
-- **Relational:** MySQL, SQLite
+- **Relational:** MySQL
 - **NoSQL:** MongoDB
 
 ### Other Tools & Practices
 - **Version Control:** Git, GitHub
-- **Command Line:** Bash, Zsh
-- **Project Management:** Trello, Jira
+- **Command Line:** Bash
+- **Project Management:** Jira
 
 
 ## 🎨 Design Philosophy
