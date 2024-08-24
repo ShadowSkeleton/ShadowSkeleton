@@ -5,12 +5,12 @@ I'm a passionate developer with a strong foundation in both frontend and backend
 ## 🛠 Technologies & Tools
 
 ### Languages
-- **Proficient:** Python, C++, C, JavaScript, HTML, CSS, PHP, MySQL
+- **Proficient:** Python, C++, C, JavaScript, HTML, CSS, PHP
 - **Familiar:** TypeScript, Java
 
 ### Frontend
 - **Frameworks & Libraries:** React, Bootstrap
-- **Tools:** Figma, Adobe XD, Chrome DevTools
+- **Tools:** Figma, Chrome DevTools
 
 ### Backend
 - **Frameworks & Libraries:** Node.js, Express, PHP
