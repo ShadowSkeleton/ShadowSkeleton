@@ -33,7 +33,6 @@ I believe in clean, efficient code that not only works but also is easy to maint
 
 ## 📫 Get in Touch
 
-- **Email:** [jacksonfeng0130@gmail.com](mailto:jacksonfeng0130@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/jingrui-feng](https://www.linkedin.com/in/jingrui-feng))
 - **Portfolio:** [https://shadowskeleton.github.io](https://shadowskeleton.github.io)
 
