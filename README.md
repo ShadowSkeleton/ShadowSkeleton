@@ -45,7 +45,7 @@ I believe in clean, efficient code that not only works but also is easy to maint
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 11 October 2025
+From: 21 November 2022 - To: 12 October 2025
 
 Total Time: 374 hrs
 
