@@ -45,19 +45,19 @@ I believe in clean, efficient code that not only works but also is easy to maint
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 17 November 2025
+From: 21 November 2022 - To: 18 November 2025
 
-Total Time: 390 hrs 40 mins
+Total Time: 390 hrs 54 mins
 
-C                          69 hrs 31 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-Python                     65 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-JavaScript                 54 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-TeX                        51 hrs 34 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+C                          69 hrs 31 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+Python                     65 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+JavaScript                 54 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+TeX                        51 hrs 36 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
 Java                       26 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 ObjectiveC                 22 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-TypeScript                 17 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+TypeScript                 17 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 SQL                        15 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-HTML                       13 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+HTML                       13 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 PHP                        9 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
