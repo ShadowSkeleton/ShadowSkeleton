@@ -45,12 +45,12 @@ I believe in clean, efficient code that not only works but also is easy to maint
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 17 December 2025
+From: 21 November 2022 - To: 18 December 2025
 
-Total Time: 398 hrs 54 mins
+Total Time: 398 hrs 58 mins
 
-C                          72 hrs 6 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-Python                     65 hrs 27 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+C                          72 hrs 6 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Python                     65 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
 JavaScript                 54 hrs 44 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
 TeX                        53 hrs 4 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
 Java                       26 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
