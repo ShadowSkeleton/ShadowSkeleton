@@ -111,7 +111,7 @@ The coffee workflow occasionally gets overengineered. The coffee rarely complain
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2022 - To: 14 September 2026
+From: 21 November 2022 - To: 15 September 2026
 
 Total Time: 415 hrs 20 mins
 
